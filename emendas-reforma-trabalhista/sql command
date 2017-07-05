@@ -1,0 +1,3 @@
+Pergunta em processo de tradução para o SQL
+
+select emenda, doador, sum doacoes where group by doador order by desc doacoes from emendadores
